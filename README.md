@@ -14,4 +14,4 @@
 
 ## 📄 مستندات پروژه  
 مستندات کامل پروژه در فایل زیر قابل دسترسی است:  
-[دانلود مستندات (PDF)](docs/project-documentation.pdf)
+[دانلود مستندات (PDF)](docs/project_documentation.pdf)
